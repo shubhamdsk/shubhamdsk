@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Deshmukh</h1>
+<h1 align="center">Hi 👋🏻, I'm Shubham Deshmukh</h1>
 <h3 align="center">A Passionate Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdsk&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdsk" /> </p>
@@ -8,6 +8,12 @@
 <p align="left"> <a href="https://twitter.com/iamdsk17" target="blank"><img src="https://img.shields.io/twitter/follow/iamdsk17?logo=twitter&style=for-the-badge" alt="iamdsk17" /></a> </p>
 
 - 🌱 I’m currently learning **Spring,Spring Boot**
+
+- 👨🏻‍🎓 Student of **Computer Science**
+
+- 👨🏻‍💻 I have Learned **C Language,Python,Php,Java,DBMS**
+
+- 🖥 My goal to become **Full Stack Developer**
 
 - 💬 Ask me about **Programming**
 

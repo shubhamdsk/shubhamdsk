@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamdsk17" target="blank"><img src="https://img.shields.io/twitter/follow/iamdsk17?logo=twitter&style=for-the-badge" alt="iamdsk17" /></a> </p>
 
-- 🌱 I’m currently learning **Spring,Spring Boot**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨🏻‍🎓 Student of **Computer Science**
 

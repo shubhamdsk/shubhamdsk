@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/iamdsk17" target="blank"><img src="https://img.shields.io/twitter/follow/iamdsk17?logo=twitter&style=for-the-badge" alt="iamdsk17" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🌱 I’m currently learning **Data Science**
 
 - 👨🏻‍🎓 Student of **Computer Science**

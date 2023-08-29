@@ -6,7 +6,7 @@
 <br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
 
 
-<img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> 
+<img src="https://github-readme-stats.vercel.app/api/?username=shubhamdsk&show_icons=true" alt="git stats"> 
 <br />
 
 ## Fun Fact 🎈:
@@ -17,20 +17,15 @@
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
 • 💬 Ask me about <b>Full Stack</b>.<br/>
-• 📫 Reach me out <a href="shubhamdeshm37@gmail.com"><b>@cShubhamdsk</b></a><br/>
+• 📫 Reach me out <a href="https://www.instagram.com/shubham_deshmukh_17"> <b>Instagram</b>  <br/>
 </span>
 
 <br />
-<br />
+<!--
+## 🏆 **GITHUB TROPHY**
 
-<!-- ## 🏆 **GITHUB TROPHY**
-
-![](https://github-profile-trophy.vercel.app/?username=codingstella&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
-
-<a href="http://www.github.com/codingstella"><img src="https://activity-graph.herokuapp.com/graph?username=codingstella&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<br /> -->
-
+<br /> 
+--
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdsk&theme=dark&hide_border=false)<br/>
 
@@ -55,10 +50,10 @@
 <a href="mailto:shubhamdeshm37@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a> 
-<!-- <a href="https://www.github.com/codingstella"> 
+<!-- <a href="https://www.github.com/shubhamdsk"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a> -->
-<!-- <a href="https://twitter.com/codingstellaa"> 
+<!-- <a href="https://twitter.com/shubhamdska"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a> -->
 <a href="https://facebook.com/shubhamdeshmukh1709"> 
@@ -228,6 +223,6 @@
 
 <br/>
  
-  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=shubhamdsk&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/shubhamdsk))
+  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=shubhamdsk&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/shubhamdsk)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingstella&theme=onedark) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdsk&theme=onedark) -->

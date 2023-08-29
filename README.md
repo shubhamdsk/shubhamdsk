@@ -21,6 +21,29 @@
 
 <br />
 
+## 🌏 **CONNECT WITH ME**
+<a href="https://www.instagram.com/shubham_deshmukh_17"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram"/>
+</a>
+<a href="https://www.youtube.com/@Shubhamdsk"> 
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
+</a>
+<a href="mailto:shubhamdeshm37@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+</a> 
+<a href="https://www.github.com/shubhamdsk"> 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
+</a> 
+<a href="https://twitter.com/shubhamdska"> 
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
+</a> 
+<a href="https://facebook.com/shubhamdeshmukh1709"> 
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
+</a>
+<a  href="https://linkedin.com/in/shubham-deshmukh1720">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+</a>
+<br />
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdsk&theme=dark&hide_border=false)<br/>
 

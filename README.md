@@ -1,15 +1,18 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋🏻, I'm Shubham Deshmukh</h1><br><h3 align="center">A Passionate Programmer</h3><br><br>
+# 💫 About Me: <h1 align="center">Hi 👋🏻, I'm Shubham Deshmukh</h1> <h3 align="center">A Passionate Programmer</h3>
 
-**I am a self-taught Programmer from India.**
-<br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
-<br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
+## **Welcome to My GitHub Repository!🚀** 🙏
 
+Hey there! Thanks for stopping by my GitHub repository. Here, you'll find a collection of my coding journey, projects, and collaborations. Feel free to explore, contribute, and learn together with me. Your feedback and suggestions are always appreciated. Let's keep coding and building amazing things! 👨‍💻🔥
+
+If you find something interesting or have any questions, don't hesitate to reach out. Happy coding and have a fantastic day!
+<hr>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/?username=shubhamdsk&show_icons=true" alt="git stats"> 
-<br />
+
 
 ## Fun Fact 🎈:
+<br>
 
 <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> 
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
@@ -20,6 +23,16 @@
 </span>
 
 <br />
+<br />
+<br />
+
+
+
+## 📊 GITHUB STATS:
+![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdsk&theme=dark&hide_border=false)<br/>
+
+## 🏆 GITHUB TROPHIES
+![](https://github-profile-trophy.vercel.app/?username=shubhamdsk&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌏 **CONNECT WITH ME**
 <a href="https://www.instagram.com/shubham_deshmukh_17"> 
@@ -44,19 +57,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <br />
-
-# 📊 GITHUB STATS:
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdsk&theme=dark&hide_border=false)<br/>
-
-## 🏆 GITHUB TROPHIES
-![](https://github-profile-trophy.vercel.app/?username=shubhamdsk&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ RANDOM DEV QUOTE
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 TOP CONTRIBUTED REPOSITORY 
-![](https://github-contributor-stats.vercel.app/api?username=shubhamdsk&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ## 🕸️ **WEB DEV**
 
@@ -207,9 +207,13 @@
 
 <hr />
 
-### **Thanks for checking out my GitHub Profile!** 🙏
-
 <br />
+
+## ✍️ RANDOM DEV QUOTE
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🔝 TOP CONTRIBUTED REPOSITORY 
+![](https://github-contributor-stats.vercel.app/api?username=shubhamdsk&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 

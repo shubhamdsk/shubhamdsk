@@ -17,7 +17,7 @@
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
 • 💬 Ask me about <b>Full Stack</b>.<br/>
-• 📫 Reach me out <a href="https://www.instagram.com/shubham_deshmukh_17"> <b>Instagram</b>  <br/>
+• 📫 Reach me out <b>shubhamdeshm37@gmail.com </b>  <br/>
 </span>
 
 <br />

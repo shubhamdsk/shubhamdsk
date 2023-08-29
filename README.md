@@ -41,9 +41,7 @@
 
 ## 🌏 **CONNECT WITH ME**
 
-<a href="https://www.instagram.com/shubham_deshmukh_17"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
-</a>
+
 <a href="https://www.youtube.com/@Shubhamdsk"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>

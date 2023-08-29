@@ -47,7 +47,7 @@ If you find something interesting or have any questions, don't hesitate to reach
 <a href="https://www.github.com/shubhamdsk"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a> 
-<a href="https://twitter.com/shubhamdska"> 
+<a href="https://twitter.com/iamdsk17"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a> 
 <a href="https://facebook.com/shubhamdeshmukh1709"> 

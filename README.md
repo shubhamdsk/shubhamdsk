@@ -224,9 +224,6 @@
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
-![](https://img.shields.io/github/followers/shubhamdsk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
-
-
  ## 💰 You can help me by Donating
 
 <br/>

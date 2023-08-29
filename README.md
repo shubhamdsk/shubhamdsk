@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋🏻, I'm Shubham Deshmukh</h1><br><h3 align="center">A Passionate Programmer</h3><br><br>-
+<h1 align="center">Hi 👋🏻, I'm Shubham Deshmukh</h1><br><h3 align="center">A Passionate Programmer</h3><br><br>
 
 **I am a self-taught Programmer from India.**
 <br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
@@ -214,7 +214,7 @@
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/codingstella?tab=repositories
+[repo]: https://github.com/shubhamdsk?tab=repositories
 
 <hr />
 
@@ -224,13 +224,13 @@
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
-![](https://img.shields.io/github/followers/codingstella?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![](https://img.shields.io/github/followers/shubhamdsk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 
  ## 💰 You can help me by Donating
 
 <br/>
  
-  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/shubhamdsk))
+  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=shubhamdsk&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/shubhamdsk))
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingstella&theme=onedark) -->

@@ -1,4 +1,4 @@
-# 💫 About Me: <h1 align="center">Hi 👋🏻, I'm Shubham Deshmukh</h1> <h3 align="center">A Passionate Programmer</h3>
+# 💫 About Me: <h1 align="center">Hi 👋🏻, I'm Shubham Deshmukh</h1>
 
 ## **Welcome to My GitHub Repository!🚀** 🙏
 

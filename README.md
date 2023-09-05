@@ -6,6 +6,10 @@ Happy coding and have a fantastic day!
 <hr>
 <br>
 
+
+![](https://komarev.com/ghpvc/?username=shubhamdsk&style=for-the-badge)
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/?username=shubhamdsk&show_icons=true" alt="git stats"> 
 
 ## Fun Fact 🎈:

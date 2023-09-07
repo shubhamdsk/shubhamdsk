@@ -26,11 +26,6 @@ Happy coding and have a fantastic day!
 <br />
 <br />
 <br />
-<span>
-<details>
-  <summary>:zap: Most Used Languages</summary>
-<img align="left" alt="shubhamdsk,s GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdsk" />
- </span>
  
 ## 📊 GITHUB STATS:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdsk&theme=dark&hide_border=false)<br/>
@@ -207,6 +202,13 @@ Happy coding and have a fantastic day!
 <hr />
 
 <br />
+
+<span>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+<img align="left" alt="shubhamdsk,s GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdsk" />
+ </span>
+ <br>
 
 ## ✍️ RANDOM DEV QUOTE
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

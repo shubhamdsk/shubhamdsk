@@ -213,6 +213,9 @@ Happy coding and have a fantastic day!
 ## ✍️ RANDOM DEV QUOTE
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<br/>
+
 ## 🔝 TOP CONTRIBUTED REPOSITORY 
 ![](https://github-contributor-stats.vercel.app/api?username=shubhamdsk&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 

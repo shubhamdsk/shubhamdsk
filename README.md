@@ -1,7 +1,7 @@
  <h1 align="center"> 💫 Hi 👋🏻, I'm Shubham Deshmukh</h1> </br>
 <h2 align="center"><b>Welcome to My GitHub Repository!🚀</b></h2>
 
-Hey there! Thanks for stopping by my GitHub repository. Here, you'll find a collection of my coding journey, projects, and collaborations. Feel free to explore, contribute, and learn together with me. Your feedback and suggestions are always appreciated. Let's keep coding and building amazing things! 👨‍💻🔥
+Hey there! Thanks for stopping by my GitHub Profile. Here, you'll find a collection of my coding journey, projects, and collaborations. Feel free to explore, contribute, and learn together with me. Your feedback and suggestions are always appreciated. Let's keep coding and building amazing things! 👨‍💻🔥
 Happy coding and have a fantastic day!
 <hr>
 <br>
@@ -26,9 +26,12 @@ Happy coding and have a fantastic day!
 <br />
 <br />
 <br />
-
-
-
+<span>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+<img align="left" alt="shubhamdsk,s GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdsk" />
+ </span>
+ 
 ## 📊 GITHUB STATS:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdsk&theme=dark&hide_border=false)<br/>
 

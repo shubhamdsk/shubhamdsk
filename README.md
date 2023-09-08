@@ -6,11 +6,10 @@ Happy coding and have a fantastic day!
 <hr>
 <br>
 
-
 ![](https://komarev.com/ghpvc/?username=shubhamdsk&style=for-the-badge)
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/?username=shubhamdsk&show_icons=true" alt="git stats"> 
+<img src="https://github-readme-stats.vercel.app/api/?username=shubhamdsk&show_icons=true" alt="git stats">  <br>
 
 ## Fun Fact 🎈:
 <br>
@@ -29,6 +28,7 @@ Happy coding and have a fantastic day!
  
 ## 📊 GITHUB STATS:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdsk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdsk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 
 ## 🏆 GITHUB TROPHIES
 ![](https://github-profile-trophy.vercel.app/?username=shubhamdsk&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
@@ -202,13 +202,6 @@ Happy coding and have a fantastic day!
 <hr />
 
 <br />
-
-<span>
-<details>
-  <summary>:zap: Most Used Languages</summary>
-<img align="left" alt="shubhamdsk,s GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdsk" />
- </span>
- <br>
 
 ## ✍️ RANDOM DEV QUOTE
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

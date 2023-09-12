@@ -46,7 +46,7 @@ Happy coding and have a fantastic day!
 <a href="https://www.github.com/shubhamdsk"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a> 
-<a href="https://twitter.com/iamdsk17"> 
+<a href="https://twitter.com/shubhamdsk"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a> 
 <a href="https://facebook.com/shubhamdeshmukh1709"> 

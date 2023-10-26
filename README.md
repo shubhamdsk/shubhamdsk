@@ -7,7 +7,9 @@ Happy coding and have a fantastic day!
 <br>
 
 ![](https://komarev.com/ghpvc/?username=shubhamdsk&style=for-the-badge)
-<br>
+<be>
+
+<img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
 
 <img src="https://github-readme-stats.vercel.app/api/?username=shubhamdsk&show_icons=true" alt="git stats">  <br>
 

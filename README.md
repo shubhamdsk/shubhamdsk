@@ -18,7 +18,6 @@ Happy coding and have a fantastic day!
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
-• 💬 Ask me about <b>Full Stack</b>.<br/>
 </span>
 
 <br />

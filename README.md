@@ -28,9 +28,6 @@ Happy coding and have a fantastic day!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdsk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdsk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 
-## 🏆 GITHUB TROPHIES
-![](https://github-profile-trophy.vercel.app/?username=shubhamdsk&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🌏 **CONNECT WITH ME**
 <a href="https://www.instagram.com/shubham_deshmukh_17"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram"/>

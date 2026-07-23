@@ -1,92 +1,115 @@
-<h1 align="center">Hi 👋🏻, I'm Shubham Deshmukh</h1>
+<div align="center">
+  
+# Hi, I'm Shubham Deshmukh
 
-<h3 align="center">
-  Frontend Developer | Angular | TypeScript | JavaScript
-</h3>
+### Frontend Developer | Angular | TypeScript | JavaScript
 
-<p align="center">
-  I build clean, scalable, and user-friendly web applications using modern frontend technologies.
-</p>
+I build clean, scalable, and user-friendly web applications using modern frontend technologies.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamdsk&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=shubhamdsk\&label=Profile%20Views\&color=0e75b6\&style=flat)](https://github.com/shubhamdsk)
+[![GitHub Followers](https://img.shields.io/github/followers/shubhamdsk?label=Followers\&style=flat\&logo=github)](https://github.com/shubhamdsk?tab=followers)
+[![Total Stars](https://img.shields.io/github/stars/shubhamdsk?label=Total%20Stars\&style=flat\&logo=github)](https://github.com/shubhamdsk?tab=repositories)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Frontend Developer with strong experience in **Angular, TypeScript, JavaScript, HTML, and SCSS**
-- 🚀 Working with **Standalone Components, Signals, RxJS, Services, and REST API integration**
-- 🎨 Interested in building clean UI, reusable components, dashboards, tables, and enterprise-level frontend features
-- 🧠 Currently improving my skills in **React with TypeScript**
-- 🛠️ Experienced with **Git, GitHub, VS Code, Postman, Angular Material, and AG Grid**
-- 📌 Focused on writing clean, readable, maintainable, and production-ready code
+* Frontend Developer with strong experience in **Angular, TypeScript, JavaScript, HTML, and SCSS**
+* Working with **Standalone Components, Signals, RxJS, Services, and REST API integration**
+* Interested in building clean UI, reusable components, dashboards, tables, and enterprise-level frontend features
+* Currently improving my skills in **React with TypeScript**
+* 🛠️ Experienced with **Git, GitHub, VS Code, Postman, Angular Material, and AG Grid**
+* Focused on writing clean, readable, maintainable, and production-ready code
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,react,git,github,vscode,postman" alt="Tech Stack" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=angular,typescript,javascript,react,html,css,scss,bootstrap,git,github,vscode,nodejs,npm,postman)
 
 ---
 
-## 🕸️ Web Development
+## 🖥️ Web Development
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
-  <img src="https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Angular Material" />
-  <img src="https://img.shields.io/badge/AG_Grid-2B579A?style=for-the-badge&logo=databricks&logoColor=white" alt="AG Grid" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge\&logo=reactivex\&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?style=for-the-badge\&logo=angular\&logoColor=white)
+![AG Grid](https://img.shields.io/badge/AG%20Grid-0084E7?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ---
 
-## 🚀 What I Work On
+## 💼 What I Work On
 
-- Angular standalone architecture
-- Reusable UI components
-- REST API integration
-- RxJS-based data handling
-- Signal-based state handling
-- Dashboard and table UI development
-- SCSS-based responsive layouts
-- Frontend debugging and optimization
-- Clean and maintainable frontend architecture
-
----
-
-## 🎈 Fun Fact
-
-<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="Octocat" />
-
-- 🔭 I’m currently working on **something cool**
-- 👯 I’m open to collaborating on **frontend and web development projects**
-- 💡 I enjoy learning new frontend patterns and improving UI quality
-- ⚡ I believe clean code and clean UI both matter
-
-<br clear="left" />
+* Angular standalone architecture
+* Reusable UI components
+* REST API integration
+* RxJS-based data handling
+* Signal-based state handling
+* Dashboard and table UI development
+* SCSS-based responsive layouts
+* Frontend debugging and optimization
+* Clean and maintainable frontend architecture
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning
+
+* React with TypeScript and TSX
+* Advanced Angular architecture
+* Frontend system design
+* Web accessibility and performance optimization
+
+---
+
+## 🚀 Featured Projects
+
+### [Shubham Portfolio](https://github.com/shubhamdsk/shubham-portfolio)
+
+Modern personal portfolio built using Angular, TypeScript, Signals, standalone components, and SCSS.
+
+### [Exam Motivation](https://github.com/shubhamdsk/exam-motivation)
+
+Responsive Angular motivational website with a clean cartoon-themed interface.
+
+[View Live Website](https://shubhamdsk.github.io/exam-motivation/)
+
+### [Learning Technology](https://github.com/shubhamdsk/Learning-Technology)
+
+Practical frontend learning notes, React TypeScript examples, interview questions, and development concepts.
+
+---
+
+## 😄 Fun Fact
+
+<img align="right" alt="Octocat" width="250" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+
+* I’m currently working on **something cool**
+* I’m open to collaborating on **frontend and web development projects**
+* I enjoy learning new frontend patterns and improving UI quality
+* ⚡ I believe clean code and clean UI both matter
+
+<br clear="right"/>
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
-  <br />
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdsk&theme=tokyonight&hide_border=false" 
-    alt="Shubham's GitHub Streak" 
-  />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamdsk&theme=tokyo-night&hide_border=true&area=true"
+alt="GitHub Contribution Graph"
+/>
 
 </div>
 
@@ -94,60 +117,47 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/shubhamdsk/shubhamdsk/output/github-contribution-grid-snake-dark.svg" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/shubhamdsk/shubhamdsk/output/github-contribution-grid-snake.svg" 
-    />
-    <img 
-      alt="GitHub Contribution Snake" 
-      src="https://raw.githubusercontent.com/shubhamdsk/shubhamdsk/output/github-contribution-grid-snake.svg" 
-    />
-  </picture>
-</p>
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/shubhamdsk/shubhamdsk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
-## 🌏 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/shubham-deshmukh1720" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/shubham-deshmukh1720">
+  <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-  <a href="mailto:shubhamdeshm37@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<a href="mailto:">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
-  <a href="https://github.com/shubhamdsk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://github.com/shubhamdsk">
+  <img src="https://img.shields.io/badge/GitHub-shubhamdsk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-  <a href="https://gitfut.com/shubhamdsk" target="_blank">
-    <img src="https://img.shields.io/badge/GitFut-Profile-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitFut Profile" />
-  </a>
+<a href="https://gitfut.com/shubhamdsk">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Profile-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
 
-  <a href="https://www.instagram.com/shubham_deshmukh_17" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<a href="https://www.instagram.com/shubham_deshmukh_17">
+  <img src="https://img.shields.io/badge/Instagram-shubham__deshmukh__17-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
-  <a href="https://www.youtube.com/@Shubhamdsk" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+<a href="https://www.youtube.com">
+  <img src="https://img.shields.io/badge/YouTube-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
 
-  <a href="https://twitter.com/shubhamdsk" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+<a href="https://twitter.com">
+  <img src="https://img.shields.io/badge/Twitter-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
 
-  <a href="https://facebook.com/shubhamdeshmukh1709" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
+<a href="https://facebook.com">
+  <img src="https://img.shields.io/badge/Facebook-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
 
 ---
 
@@ -155,40 +165,25 @@
 
 <div align="center">
 
-  <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
-    alt="Random Dev Quote" 
-  />
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 </div>
 
 ---
 
-## 💰 Support
+## ☕ Support
 
-<div align="center">
-
-  <a href="https://www.buymeacoffee.com/shubhamdsk">
-    <img 
-      src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=shubhamdsk&button_colour=6A5ACD&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" 
-      alt="Buy Me A Coffee" 
-    />
-  </a>
-
-</div>
+<a href="https://www.buymeacoffee.com/shubhamdsk">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee">
+</a>
 
 ---
 
 <div align="center">
 
-  <img src="https://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built With Love" />
+![Built With Love](https://forthebadge.com/images/badges/built-with-love.svg)
+
+Thanks for visiting my profile!
+Let's keep learning, coding, and building amazing things.
 
 </div>
-
-<br />
-
-<p align="center">
-  Thanks for visiting my profile!  
-  <br />
-  Let's keep learning, coding, and building amazing things 🚀
-</p>

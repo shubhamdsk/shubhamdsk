@@ -71,37 +71,6 @@ I build clean, scalable, and user-friendly web applications using modern fronten
 
 ---
 
-## 🚀 Featured Projects
-
-### [Shubham Portfolio](https://github.com/shubhamdsk/shubham-portfolio)
-
-Modern personal portfolio built using Angular, TypeScript, Signals, standalone components, and SCSS.
-
-### [Exam Motivation](https://github.com/shubhamdsk/exam-motivation)
-
-Responsive Angular motivational website with a clean cartoon-themed interface.
-
-[View Live Website](https://shubhamdsk.github.io/exam-motivation/)
-
-### [Learning Technology](https://github.com/shubhamdsk/Learning-Technology)
-
-Practical frontend learning notes, React TypeScript examples, interview questions, and development concepts.
-
----
-
-## 😄 Fun Fact
-
-<img align="right" alt="Octocat" width="250" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-
-* I’m currently working on **something cool**
-* I’m open to collaborating on **frontend and web development projects**
-* I enjoy learning new frontend patterns and improving UI quality
-* ⚡ I believe clean code and clean UI both matter
-
-<br clear="right"/>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">

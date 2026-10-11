@@ -1,15 +1,18 @@
 <div align="center">
-  
-# Hi, I'm Shubham Deshmukh
 
-### Frontend Developer | Angular | TypeScript | JavaScript
+# Shubham Deshmukh
 
-I build clean, scalable, and user-friendly web applications using modern frontend technologies.
+<a href="https://github.com/shubhamdsk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Angular+%26+TypeScript;Enterprise+Dashboards+%26+Data-Heavy+UIs;Full-Stack+with+React+%2B+ASP.NET+Core" alt="Typing intro" />
+</a>
 
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=shubhamdsk\&label=Profile%20Views\&color=0e75b6\&style=flat)](https://github.com/shubhamdsk)
-[![GitHub Followers](https://img.shields.io/github/followers/shubhamdsk?label=Followers\&style=flat\&logo=github)](https://github.com/shubhamdsk?tab=followers)
-[![Total Stars](https://img.shields.io/github/stars/shubhamdsk?label=Total%20Stars\&style=flat\&logo=github)](https://github.com/shubhamdsk?tab=repositories)
+📍 Pune, India &nbsp;·&nbsp; 💼 2+ Years Experience &nbsp;·&nbsp; 🟢 Open to Opportunities
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-deshmukh1720)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gitfut.com/shubhamdsk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamdsk)
 
 </div>
 
@@ -17,142 +20,112 @@ I build clean, scalable, and user-friendly web applications using modern fronten
 
 ## 👨‍💻 About Me
 
-* Frontend Developer with strong experience in **Angular, TypeScript, JavaScript, HTML, and SCSS**
-* Working with **Standalone Components, Signals, RxJS, Services, and REST API integration**
-* Interested in building clean UI, reusable components, dashboards, tables, and enterprise-level frontend features
-* Currently improving my skills in **React with TypeScript**
-* 🛠️ Experienced with **Git, GitHub, VS Code, Postman, Angular Material, and AG Grid**
-* Focused on writing clean, readable, maintainable, and production-ready code
+I'm a frontend developer with **2+ years of professional experience** building enterprise web applications in **Angular** and **TypeScript**. My work centers on data-heavy interfaces such as dashboards, complex grids, and multi-step workflows, built on clean architecture and reusable components.
+
+Outside of work, I build **full-stack products** with **React, ASP.NET Core, PostgreSQL, and Redis**, which gives me an end-to-end view of how frontend decisions affect the whole system.
+
+```ts
+const shubham = {
+  role: "Frontend Developer",
+  experience: "2+ years",
+  location: "Pune, India",
+  primaryStack: ["Angular", "TypeScript", "RxJS", "Signals", "AG Grid"],
+  alsoBuildWith: ["React", "Tailwind CSS", "ASP.NET Core", "PostgreSQL", "Redis"],
+  focus: ["Scalable architecture", "Reusable components", "Performance"],
+  currentlyExploring: ["Frontend system design", "Accessibility", "Microservices"],
+};
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=angular,typescript,javascript,react,html,css,scss,bootstrap,git,github,vscode,nodejs,npm,postman)
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,sass,tailwind,bootstrap,vite" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,githubactions" alt="DevOps" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" /></td>
+  </tr>
+</table>
 
----
-
-## 🖥️ Web Development
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge\&logo=reactivex\&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?style=for-the-badge\&logo=angular\&logoColor=white)
-![AG Grid](https://img.shields.io/badge/AG%20Grid-0084E7?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
----
-
-## 💼 What I Work On
-
-* Angular standalone architecture
-* Reusable UI components
-* REST API integration
-* RxJS-based data handling
-* Signal-based state handling
-* Dashboard and table UI development
-* SCSS-based responsive layouts
-* Frontend debugging and optimization
-* Clean and maintainable frontend architecture
+**Libraries & Patterns:** RxJS · Angular Signals · Standalone Components · Angular Material · AG Grid · Monaco Editor · Server-Sent Events · Clean Architecture · YARP API Gateway · Microservices
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Featured Projects
 
-* React with TypeScript and TSX
-* Advanced Angular architecture
-* Frontend system design
-* Web accessibility and performance optimization
+| Project | Description | Tech | Links |
+| --- | --- | --- | --- |
+| **SQL Automation Next** | Multi-database developer workspace with visual schema design, safe SQL execution, connection management, and audit history | React · TypeScript · ASP.NET Core · YARP · Docker · Monaco | [Code](https://github.com/shubhamdsk/SQL-Automation-Next) |
+| **Cricket Live** | Real-time cricket score platform with live scores, scorecards, commentary, and SSE-powered updates | React · TypeScript · Tailwind · ASP.NET Core · PostgreSQL · Redis | [Live](https://cricket-live-shubhamdsk1.vercel.app/) · [Code](https://github.com/shubhamdsk/cricket-live) |
+| **Shree Balaji Paints** | Production business website with a product catalogue, brand listings, offers, enquiries, and WhatsApp integration | TypeScript · Cloudflare Workers | [Live](https://shree-balaji.shreebalajipaints.workers.dev/) · [Code](https://github.com/shubhamdsk/shree-balaji-paints-plywood-hardware) |
+| **Team Progress Tracker** | Team progress tracking app built on Clean Architecture with domain services | React · TypeScript · ASP.NET Core · SQL Server | [Code](https://github.com/shubhamdsk/team-progress-tracker) |
+| **Student Election System** | Student election management system with a full-stack Clean Architecture design | React · TypeScript · ASP.NET Core · SQL Server | [Code](https://github.com/shubhamdsk/student-election-system) |
+| **Angular Portfolio** | Personal portfolio built with modern Angular practices | Angular · TypeScript · Signals | [Code](https://github.com/shubhamdsk/shubham-portfolio) |
+| **AG Grid with Angular 19** | Enterprise data grid implementation in Angular 19 | Angular · AG Grid · TypeScript | [Code](https://github.com/shubhamdsk/Ag-Grid-Table-Angular-19) |
+| **Hotel Sarvottam** | Digital menu for a family restaurant | TypeScript | [Live](https://shubhamdsk.github.io/Hotel-Sarvottam/) · [Code](https://github.com/shubhamdsk/Hotel-Sarvottam) |
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 What I Bring
+
+- **Angular architecture:** standalone components, feature-based structure, smart and presentational separation
+- **Reactive state:** Signal-based state with RxJS stream composition
+- **Enterprise UI:** dashboards, high-volume AG Grid tables, complex forms, responsive SCSS layouts
+- **API integration:** typed REST clients with solid loading, error, and caching strategies
+- **Real-time features:** live updates with Server-Sent Events
+- **Full-stack awareness:** ASP.NET Core APIs, Clean Architecture, PostgreSQL, Redis, Docker
+- **Code quality:** readable, strongly typed, maintainable production code
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamdsk&theme=tokyo-night&hide_border=true&area=true"
-alt="GitHub Contribution Graph"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shubhamdsk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdsk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=java,php,c,python" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=shubhamdsk&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/shubhamdsk/shubhamdsk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🌱 Currently Exploring
 
-<div align="center">
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/shubhamdsk/shubhamdsk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<a href="https://www.linkedin.com/in/shubham-deshmukh1720">
-  <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
-<a href="https://github.com/shubhamdsk">
-  <img src="https://img.shields.io/badge/GitHub-shubhamdsk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://gitfut.com/shubhamdsk">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Profile-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-</a>
-
-<a href="https://www.instagram.com/shubham_deshmukh_17">
-  <img src="https://img.shields.io/badge/Instagram-shubham__deshmukh__17-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://www.youtube.com">
-  <img src="https://img.shields.io/badge/YouTube-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-
-<a href="https://twitter.com">
-  <img src="https://img.shields.io/badge/Twitter-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-
-<a href="https://facebook.com">
-  <img src="https://img.shields.io/badge/Facebook-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-
----
-
-## ✍️ Dev Quote
-
-<div align="center">
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
-</div>
-
----
-
-## ☕ Support
-
-<a href="https://www.buymeacoffee.com/shubhamdsk">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee">
-</a>
+- Frontend system design and micro-frontend architecture
+- Advanced React patterns with TypeScript
+- Web accessibility (WCAG) and Core Web Vitals optimization
+- Microservices with ASP.NET Core and API gateways
 
 ---
 
 <div align="center">
 
-![Built With Love](https://forthebadge.com/images/badges/built-with-love.svg)
+### 🤝 Let's Connect
 
-Thanks for visiting my profile!
-Let's keep learning, coding, and building amazing things.
+I'm open to **frontend and full-stack engineering roles**, freelance projects, and collaboration.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-deshmukh1720)
 
 </div>

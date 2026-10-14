@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=180&section=header&text=Shubham%20Deshmukh&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Founder%20%C2%B7%20Nexora%20Studio%20%20%7C%20%20Frontend%20%26%20Full-Stack%20Developer&descSize=16&descAlignY=58&animation=fadeIn" alt="Shubham Deshmukh" width="100%" />
+# Shubham Deshmukh
+
+**Founder · Nexora Studio &nbsp;|&nbsp; Frontend & Full-Stack Developer**
 
 <a href="https://software-studio.nexoralab.workers.dev/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=620&lines=Building+Nexora+Studio+%F0%9F%9A%80;Angular+%26+React+frontends+that+scale;ASP.NET+Core+APIs+%2B+PostgreSQL;Websites%2C+dashboards+%26+custom+software" alt="Typing intro" />
@@ -173,7 +175,4 @@ I'm also open to **frontend and full-stack engineering roles** and collaboration
 
 [![Start a Project](https://img.shields.io/badge/Start%20a%20Project-3B82F6?style=for-the-badge&logo=rocket&logoColor=white)](https://software-studio.nexoralab.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-deshmukh1720)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F172A&height=100&section=footer" alt="" width="100%" />
-
 </div>

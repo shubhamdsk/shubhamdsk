@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Shubham Deshmukh, founder of Nexora Studio, frontend and full-stack developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Shubham Deshmukh, software engineer at Hare and Turtle AI Solutions and founder of Nexora Studio">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#070b16"/>
@@ -51,15 +51,15 @@
     <circle class="orb2" cx="760" cy="330" r="220" fill="url(#glow2)"/>
 
     <g class="fade d1">
-      <rect x="64" y="52" width="224" height="30" rx="15" fill="#111a2e" stroke="#25324d"/>
+      <rect x="64" y="52" width="196" height="30" rx="15" fill="#111a2e" stroke="#25324d"/>
       <circle class="pulse" cx="84" cy="67" r="5" fill="#34d399"/>
-      <text x="98" y="72" font-size="14" font-weight="600" fill="#cbd5e1">Open to projects &amp; roles</text>
+      <text x="98" y="72" font-size="14" font-weight="600" fill="#cbd5e1">Open to collaboration</text>
     </g>
 
     <text class="fade d2" x="62" y="148" font-size="60" font-weight="700" fill="#f8fafc" letter-spacing="-1.5">Shubham Deshmukh</text>
     <path class="line" d="M64 170 H584" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" fill="none"/>
 
-    <text class="fade d3" x="64" y="212" font-size="22" font-weight="500" fill="#cbd5e1">Founder, <tspan fill="#f8fafc" font-weight="700">Nexora Studio</tspan> &#183; Frontend &amp; full-stack developer</text>
+    <text class="fade d3" x="64" y="212" font-size="20" font-weight="500" fill="#cbd5e1">Software Engineer, <tspan fill="#f8fafc" font-weight="700">Hare and Turtle AI Solutions</tspan> &#183; Founder, <tspan fill="#f8fafc" font-weight="700">Nexora Studio</tspan></text>
 
     <g class="fade d4">
       <text class="mono" x="64" y="262" font-size="16" fill="#64748b">$ <tspan fill="#93c5fd">ship</tspan> <tspan fill="#c4b5fd">--angular --react --next</tspan> <tspan fill="#6ee7b7">--dotnet --postgres</tspan></text>
@@ -72,10 +72,10 @@
         <circle cx="22" cy="22" r="5" fill="#f87171"/><circle cx="40" cy="22" r="5" fill="#fbbf24"/><circle cx="58" cy="22" r="5" fill="#34d399"/>
         <text class="mono" x="22" y="62" font-size="14" fill="#94a3b8">based</text>
         <text class="mono" x="96" y="62" font-size="14" fill="#e2e8f0">Pune, India</text>
-        <text class="mono" x="22" y="88" font-size="14" fill="#94a3b8">builds</text>
-        <text class="mono" x="96" y="88" font-size="14" fill="#e2e8f0">web apps &amp; dashboards</text>
-        <text class="mono" x="22" y="114" font-size="14" fill="#94a3b8">ships</text>
-        <text class="mono" x="96" y="114" font-size="14" fill="#e2e8f0">edge-first, tested</text>
+        <text class="mono" x="22" y="88" font-size="14" fill="#94a3b8">works</text>
+        <text class="mono" x="96" y="88" font-size="14" fill="#e2e8f0">Hare and Turtle AI</text>
+        <text class="mono" x="22" y="114" font-size="14" fill="#94a3b8">studio</text>
+        <text class="mono" x="96" y="114" font-size="14" fill="#e2e8f0">Nexora Studio</text>
         <text class="mono" x="22" y="140" font-size="14" fill="#94a3b8">status</text>
         <circle class="pulse" cx="101" cy="135" r="4" fill="#34d399"/>
         <text class="mono" x="112" y="140" font-size="14" fill="#6ee7b7">building</text>

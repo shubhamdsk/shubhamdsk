@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-  <img src="assets/banner-dark.svg" alt="Shubham Deshmukh — Founder of Nexora Studio, frontend and full-stack developer" width="100%" />
+  <img src="assets/banner-dark.svg" alt="Shubham Deshmukh — Software Engineer at Hare and Turtle AI Solutions, founder of Nexora Studio" width="100%" />
 </picture>
 
 <div align="center">
@@ -13,19 +13,19 @@
 
 </div>
 
-I build web products end to end — from the interface people use every day to the API and database behind it. I run **[Nexora Studio](https://software-studio.nexoralab.workers.dev/)**, where small businesses get software that is fast, tested and theirs to run.
+I'm a **Software Engineer at Hare and Turtle AI Solutions**, building web products end to end — from the interface people use every day to the API and database behind it. Outside work I run **[Nexora Studio](https://software-studio.nexoralab.workers.dev/)**, where small businesses get software that is fast, tested and theirs to run.
 
-> **Now** &nbsp;·&nbsp; Shipping client products at Nexora Studio &nbsp;·&nbsp; Open to frontend and full-stack roles
+> **Now** &nbsp;·&nbsp; Software Engineer at Hare and Turtle AI Solutions &nbsp;·&nbsp; Shipping client products at Nexora Studio &nbsp;·&nbsp; Open to collaboration
 
 ## Selected work
 
 <p align="center">
-  <a href="https://software-studio.nexoralab.workers.dev/"><img src="assets/card-nexora.svg" width="49%" alt="Nexora Studio: studio site and admin portal with case studies and tracked enquiries" /></a>
-  <a href="https://github.com/shubhamdsk/cattle-feed-showcase"><img src="assets/card-cattle-feed.svg" width="49%" alt="Cattle Feed Billing: counter bills, live stock, dues and Marathi bills on WhatsApp" /></a>
-  <a href="https://github.com/shubhamdsk/shree-balaji-showcase"><img src="assets/card-shree-balaji.svg" width="49%" alt="Shree Balaji Paints: phone-first catalogue, WhatsApp quotations and a paint calculator" /></a>
-  <a href="https://github.com/shubhamdsk/cricket-live"><img src="assets/card-cricket-live.svg" width="49%" alt="Cricket Live: real-time scores and commentary over Server-Sent Events" /></a>
-  <a href="https://github.com/shubhamdsk/SQL-Automation-Next"><img src="assets/card-sql-automation.svg" width="49%" alt="SQL Automation Next: multi-database workspace with schema design and safe SQL execution" /></a>
-  <a href="https://github.com/shubhamdsk?tab=repositories"><img src="assets/card-more.svg" width="49%" alt="More repositories on GitHub" /></a>
+  <a href="https://software-studio.nexoralab.workers.dev/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-nexora-light.svg" /><img src="assets/card-nexora.svg" width="49%" alt="Nexora Studio: studio site and admin portal with case studies and tracked enquiries" /></picture></a>
+  <a href="https://github.com/shubhamdsk/cattle-feed-showcase"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-cattle-feed-light.svg" /><img src="assets/card-cattle-feed.svg" width="49%" alt="Cattle Feed Billing: counter bills, live stock, dues and Marathi bills on WhatsApp" /></picture></a>
+  <a href="https://github.com/shubhamdsk/shree-balaji-showcase"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-shree-balaji-light.svg" /><img src="assets/card-shree-balaji.svg" width="49%" alt="Shree Balaji Paints: phone-first catalogue, WhatsApp quotations and a paint calculator" /></picture></a>
+  <a href="https://github.com/shubhamdsk/cricket-live"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-cricket-live-light.svg" /><img src="assets/card-cricket-live.svg" width="49%" alt="Cricket Live: real-time scores and commentary over Server-Sent Events" /></picture></a>
+  <a href="https://github.com/shubhamdsk/SQL-Automation-Next"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-sql-automation-light.svg" /><img src="assets/card-sql-automation.svg" width="49%" alt="SQL Automation Next: multi-database workspace with schema design and safe SQL execution" /></picture></a>
+  <a href="https://github.com/shubhamdsk?tab=repositories"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-more-light.svg" /><img src="assets/card-more.svg" width="49%" alt="More repositories on GitHub" /></picture></a>
 </p>
 
 <sub>Live sites: [Nexora Studio](https://software-studio.nexoralab.workers.dev/) · [Shree Balaji Paints](https://shree-balaji.shreebalajipaints.workers.dev/) · [Cricket Live](https://cricket-live-shubhamdsk1.vercel.app/) · [Hotel Sarvottam](https://shubhamdsk.github.io/Hotel-Sarvottam/)</sub>
@@ -39,7 +39,7 @@ I build web products end to end — from the interface people use every day to t
 
 ## Toolkit
 
-<img src="assets/toolkit.svg" width="100%" alt="Toolkit: Angular, React, Next.js, TypeScript, RxJS, Signals, Tailwind CSS, ASP.NET Core, C#, Node.js, PostgreSQL, SQL Server, Redis, Drizzle ORM, Cloudflare Workers, Vercel, Neon, Docker, GitHub Actions, Vitest, Playwright" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg" /><img src="assets/toolkit.svg" width="100%" alt="Toolkit: Angular, React, Next.js, TypeScript, RxJS, Signals, Tailwind CSS, ASP.NET Core, C#, Node.js, PostgreSQL, SQL Server, Redis, Drizzle ORM, Cloudflare Workers, Vercel, Neon, Docker, GitHub Actions, Vitest, Playwright" /></picture>
 
 ## Activity
 

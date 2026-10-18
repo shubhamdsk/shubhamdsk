@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="Shree Balaji Paints: Phone-first catalogue, WhatsApp quotations and a paint calculator.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f4f6fb"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f59e0b" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#f59e0b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#ef4444"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#64748b" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="frame"><rect width="600" height="300" rx="22"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: "Cascadia Code", "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+    .fade { opacity: 0; animation: fade 0.8s ease-out forwards; }
+    .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.3s; } .d3 { animation-delay: 0.5s; }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    .grow { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: grow 1s cubic-bezier(.2,.8,.2,1) forwards; }
+    .float { animation: float 6s ease-in-out infinite alternate; }
+    .dash { stroke-dasharray: 6 6; animation: flow 1.4s linear infinite; }
+    .ring { transform-box: fill-box; transform-origin: center; animation: ring 2.4s ease-out infinite; }
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 18s linear infinite; }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+    @keyframes grow { to { transform: scaleY(1); } }
+    @keyframes float { from { transform: translateY(0); } to { transform: translateY(-8px); } }
+    @keyframes flow { to { stroke-dashoffset: -24; } }
+    @keyframes ring { from { transform: scale(0.6); opacity: 0.8; } to { transform: scale(2.4); opacity: 0; } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      .fade, .grow, .pulse, .float, .dash, .ring, .spin { animation: none; opacity: 1; transform: none; }
+    }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="600" height="300" fill="url(#bg)"/>
+    <rect width="600" height="300" fill="url(#dots)"/>
+    <circle class="float" cx="500" cy="60" r="190" fill="url(#glow)"/>
+    <rect width="600" height="3" fill="url(#edge)"/>
+    <g class="fade d1">
+      <circle class="pulse" cx="42" cy="47" r="4.5" fill="#f59e0b"/>
+      <text class="mono" x="54" y="52" font-size="12.5" letter-spacing="1.5" fill="#f59e0b">CLIENT &#183; LIVE</text>
+    </g>
+    <text class="fade d1" x="34" y="100" font-size="31" font-weight="700" fill="#0f172a" letter-spacing="-0.6">Shree Balaji Paints</text>
+    <text class="fade d2" x="36" y="136" font-size="16" fill="#475569">Phone-first catalogue, WhatsApp</text>
+    <text class="fade d2" x="36" y="160" font-size="16" fill="#475569">quotations and a paint calculator.</text>
+    <g class="fade d3">
+    <rect x="36" y="240" width="69" height="26" rx="13" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-opacity="0.35"/><text class="mono" x="44" y="257.5" font-size="12.5" fill="#1e293b">Next.js</text>
+    <rect x="113.19999999999999" y="240" width="69" height="26" rx="13" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-opacity="0.35"/><text class="mono" x="121.19999999999999" y="257.5" font-size="12.5" fill="#1e293b">Drizzle</text>
+    <rect x="190.39999999999998" y="240" width="46" height="26" rx="13" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-opacity="0.35"/><text class="mono" x="198.39999999999998" y="257.5" font-size="12.5" fill="#1e293b">Neon</text>
+    <rect x="244.79999999999998" y="240" width="69" height="26" rx="13" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-opacity="0.35"/><text class="mono" x="252.79999999999998" y="257.5" font-size="12.5" fill="#1e293b">Workers</text>
+    </g>
+    <g class="fade d2">
+    <g transform="translate(486 128)">
+      <g class="spin">
+        <circle cx="0" cy="-58" r="20" fill="#ef4444"/>
+        <circle cx="55" cy="-18" r="20" fill="#f59e0b"/>
+        <circle cx="34" cy="47" r="20" fill="#10b981"/>
+        <circle cx="-34" cy="47" r="20" fill="#3b82f6"/>
+        <circle cx="-55" cy="-18" r="20" fill="#a855f7"/>
+      </g>
+      <circle r="26" fill="#ffffff" stroke="#e2e8f0"/>
+      <text x="0" y="5" text-anchor="middle" class="mono" font-size="12" fill="#1e293b">mix</text>
+    </g></g>
+  </g>
+  <rect x="0.5" y="0.5" width="599" height="299" rx="22" fill="none" stroke="#e2e8f0"/>
+</svg>

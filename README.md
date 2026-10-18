@@ -1,179 +1,95 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+  <img src="assets/banner-dark.svg" alt="Shubham Deshmukh — Founder of Nexora Studio, frontend and full-stack developer" width="100%" />
+</picture>
+
 <div align="center">
 
-# Shubham Deshmukh
-
-**Founder · Nexora Studio &nbsp;|&nbsp; Frontend & Full-Stack Developer**
-
-<a href="https://software-studio.nexoralab.workers.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=620&lines=Building+Nexora+Studio+%F0%9F%9A%80;Angular+%26+React+frontends+that+scale;ASP.NET+Core+APIs+%2B+PostgreSQL;Websites%2C+dashboards+%26+custom+software" alt="Typing intro" />
-</a>
-
-📍 Pune, India &nbsp;·&nbsp; 🏢 Founder, Nexora Studio &nbsp;·&nbsp; 🟢 Open to projects & collaboration
-
-<br/>
-
-[![Nexora Studio](https://img.shields.io/badge/Nexora%20Studio-0F172A?style=for-the-badge&logo=cloudflare&logoColor=F38020)](https://software-studio.nexoralab.workers.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-deshmukh1720)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shubhamdsk)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamdeshm37@gmail.com)
+[![Nexora Studio](https://img.shields.io/badge/Nexora_Studio-0F172A?style=flat-square&logo=cloudflare&logoColor=F38020)](https://software-studio.nexoralab.workers.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-deshmukh1720)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shubhamdsk)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhamdeshm37@gmail.com)
 
 </div>
 
----
+I build web products end to end — from the interface people use every day to the API and database behind it. I run **[Nexora Studio](https://software-studio.nexoralab.workers.dev/)**, where small businesses get software that is fast, tested and theirs to run.
 
-## 👋 About Me
+> **Now** &nbsp;·&nbsp; Shipping client products at Nexora Studio &nbsp;·&nbsp; Open to frontend and full-stack roles
 
-I'm a **frontend and full-stack developer** and the founder of **[Nexora Studio](https://software-studio.nexoralab.workers.dev/)**. I build enterprise web applications in **Angular** and **TypeScript**, focused on data-heavy interfaces such as dashboards, complex grids, and multi-step workflows.
-
-On the full-stack side, I ship products with **React, Next.js, ASP.NET Core, PostgreSQL, and Redis**, so I see how every frontend decision affects the whole system. Every studio project gets that end-to-end view.
-
-```ts
-const shubham = {
-  role: "Founder & Lead Developer @ Nexora Studio",
-  location: "Pune, India",
-  frontend: ["Angular", "React", "Next.js", "TypeScript", "RxJS", "Signals"],
-  backend: ["ASP.NET Core", "C#", "Node.js"],
-  data: ["PostgreSQL", "SQL Server", "Redis", "Drizzle ORM"],
-  cloud: ["Cloudflare Workers", "Vercel", "Neon", "Docker"],
-  focus: ["Scalable architecture", "Reusable components", "Performance", "Accessibility"],
-};
-```
-
----
-
-## 🏢 Nexora Studio
+## Selected work
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-**[Nexora Studio](https://software-studio.nexoralab.workers.dev/)** designs and builds modern websites, web applications, and custom software that solve real business problems.
-
-**What we build**
-
-- 🌐 **Business websites:** fast, SEO-friendly sites that turn visitors into enquiries
-- 🛍️ **Product catalogues & e-commerce:** self-managed catalogues with enquiry, quotation, or checkout flows
-- 🅰️ **Angular applications:** structured, maintainable apps for complex business workflows
-- ⚛️ **React & Next.js applications:** fast, accessible, server-rendered frontends
-- 🖥️ **.NET backends & APIs:** secure ASP.NET Core services with clear contracts
-- 📊 **Admin dashboards & reporting:** role-based internal tools, tables, charts, and exports
-- 🗄️ **Databases & integrations:** PostgreSQL / SQL Server modelling, payments, and email APIs
-- 🔧 **Maintenance & modernization:** framework upgrades, performance, and security fixes
+**[Nexora Studio](https://software-studio.nexoralab.workers.dev/)**<br/>
+<sub>Studio site and admin portal: case studies, tracked enquiries, GitHub-authenticated admin.</sub><br/>
+<sub><code>Next.js</code> <code>Neon</code> <code>Drizzle</code> <code>Cloudflare Workers</code></sub>
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
-**Studio website stack**
+**[Cattle Feed Billing](https://github.com/shubhamdsk/cattle-feed-showcase)**<br/>
+<sub>Counter billing for a feed dealer: live stock, dues, Marathi bills on WhatsApp, Excel reports.</sub><br/>
+<sub><code>Next.js</code> <code>TypeScript</code> <code>Neon</code> <code>Vercel</code></sub>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,postgres,cloudflare&perline=3" alt="Studio stack" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Next.js 16 · React 19 · TypeScript
-- Tailwind CSS v4 · shadcn/ui
-- Neon PostgreSQL · Drizzle ORM
-- Better Auth · Resend · Turnstile
-- Vitest · Playwright · GitHub Actions
-- Cloudflare Workers (OpenNext)
+**[Shree Balaji Paints](https://github.com/shubhamdsk/shree-balaji-showcase)** · [live](https://shree-balaji.shreebalajipaints.workers.dev/)<br/>
+<sub>Phone-first catalogue, quotation list on WhatsApp, paint calculator, owner panel.</sub><br/>
+<sub><code>Next.js</code> <code>Drizzle</code> <code>Neon</code> <code>Cloudflare Workers</code></sub>
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-[![Visit Studio](https://img.shields.io/badge/Visit%20the%20Studio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://software-studio.nexoralab.workers.dev/)
+**[Cricket Live](https://github.com/shubhamdsk/cricket-live)** · [live](https://cricket-live-shubhamdsk1.vercel.app/)<br/>
+<sub>Real-time scores, scorecards and commentary streamed over Server-Sent Events.</sub><br/>
+<sub><code>React</code> <code>ASP.NET Core</code> <code>PostgreSQL</code> <code>Redis</code></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[SQL Automation Next](https://github.com/shubhamdsk/SQL-Automation-Next)**<br/>
+<sub>Multi-database workspace: visual schema design, safe SQL execution, audit history.</sub><br/>
+<sub><code>React</code> <code>ASP.NET Core</code> <code>YARP</code> <code>Docker</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**More on GitHub**<br/>
+<sub>[Team Progress Tracker](https://github.com/shubhamdsk/team-progress-tracker) · [Student Election System](https://github.com/shubhamdsk/student-election-system) · [Angular Portfolio](https://github.com/shubhamdsk/shubham-portfolio) · [Hotel Sarvottam](https://shubhamdsk.github.io/Hotel-Sarvottam/)</sub>
 
 </td>
 </tr>
 </table>
 
----
+## How I work
 
-## 🧰 Tech Stack
+- **Interfaces that hold up under data.** Dashboards, large grids and multi-step forms in Angular and React.
+- **The whole system, not just the screen.** ASP.NET Core and Next.js APIs, PostgreSQL, Redis, clean boundaries.
+- **Edge-first and inexpensive to run.** Cloudflare Workers, Vercel and serverless Postgres.
+- **Quality by default.** Strict TypeScript, unit and end-to-end tests, CI on every push, accessible markup.
 
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,sass,tailwind,vite" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Databases" /></td>
-  </tr>
-  <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cloudflare,vercel,docker,githubactions" alt="Cloud and DevOps" /></td>
-  </tr>
-  <tr>
-    <td><b>Testing & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=vitest,git,github,vscode,postman" alt="Testing and tools" /></td>
-  </tr>
-</table>
+## Toolkit
 
-**Libraries & Patterns:** RxJS · Angular Signals · Standalone Components · Angular Material · AG Grid · shadcn/ui · Drizzle ORM · Monaco Editor · Server-Sent Events · Clean Architecture · YARP API Gateway · Microservices
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,tailwind,dotnet,cs,nodejs,postgres,redis,cloudflare,vercel,docker,githubactions,vitest&perline=15" alt="Angular, React, Next.js, TypeScript, Tailwind CSS, .NET, C#, Node.js, PostgreSQL, Redis, Cloudflare, Vercel, Docker, GitHub Actions, Vitest" />
 
----
+## Activity
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech | Links |
-| --- | --- | --- | --- |
-| **Nexora Studio** | Studio website and admin portal with case studies, tracked enquiries, and a GitHub-authenticated admin | Next.js · React · TypeScript · Neon · Drizzle · Cloudflare Workers | [Live](https://software-studio.nexoralab.workers.dev/) |
-| **Shree Balaji Paints** | Production business website with a product catalogue, brand listings, offers, enquiries, and WhatsApp integration | TypeScript · Cloudflare Workers | [Live](https://shree-balaji.shreebalajipaints.workers.dev/) · [Showcase](https://github.com/shubhamdsk/shree-balaji-showcase) |
-| **Cattle Feed Billing** | Counter billing app for a cattle feed dealer with live stock, low-stock alerts, payments and dues, Marathi bills on WhatsApp, and Excel sales reports | Next.js · React · TypeScript · Tailwind · Neon PostgreSQL · Vercel | [Showcase](https://github.com/shubhamdsk/cattle-feed-showcase) |
-| **Cricket Live** | Real-time cricket score platform with live scores, scorecards, commentary, and SSE-powered updates | React · TypeScript · Tailwind · ASP.NET Core · PostgreSQL · Redis | [Live](https://cricket-live-shubhamdsk1.vercel.app/) · [Code](https://github.com/shubhamdsk/cricket-live) |
-| **SQL Automation Next** | Multi-database developer workspace with visual schema design, safe SQL execution, and audit history | React · TypeScript · ASP.NET Core · YARP · Docker · Monaco | [Code](https://github.com/shubhamdsk/SQL-Automation-Next) |
-| **Team Progress Tracker** | Team progress tracking app built on Clean Architecture with domain services | React · TypeScript · ASP.NET Core · SQL Server | [Code](https://github.com/shubhamdsk/team-progress-tracker) |
-| **Student Election System** | Student election management system with a full-stack Clean Architecture design | React · TypeScript · ASP.NET Core · SQL Server | [Code](https://github.com/shubhamdsk/student-election-system) |
-| **Angular Portfolio** | Personal portfolio built with modern Angular practices | Angular · TypeScript · Signals | [Code](https://github.com/shubhamdsk/shubham-portfolio) |
-| **Hotel Sarvottam** | Digital menu for a family restaurant | TypeScript | [Live](https://shubhamdsk.github.io/Hotel-Sarvottam/) · [Code](https://github.com/shubhamdsk/Hotel-Sarvottam) |
-
----
-
-## 🎯 What I Bring
-
-- **Frontend architecture:** standalone Angular components, Next.js App Router, feature-based structure
-- **Reactive state:** Signals and RxJS stream composition
-- **Enterprise UI:** dashboards, high-volume AG Grid tables, complex forms, responsive layouts
-- **Full-stack delivery:** ASP.NET Core APIs, Clean Architecture, PostgreSQL, Redis, Docker
-- **Edge deployment:** Cloudflare Workers, Neon serverless Postgres, Vercel
-- **Real-time features:** live updates with Server-Sent Events
-- **Quality by default:** strict TypeScript, unit and end-to-end tests, CI on every push
-
----
-
-## 📊 GitHub Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamdsk/shubhamdsk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamdsk/shubhamdsk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/shubhamdsk/shubhamdsk/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" width="100%" />
+</picture>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shubhamdsk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdsk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=java,php,c,python" alt="Top languages" />
+**Have a product in mind?** [Start a project](https://software-studio.nexoralab.workers.dev/) · [Connect on LinkedIn](https://www.linkedin.com/in/shubham-deshmukh1720)
 
-<img src="https://streak-stats.demolab.com/?user=shubhamdsk&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/shubhamdsk/shubhamdsk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
-
-</div>
-
----
-
-## 🌱 Currently Exploring
-
-- Frontend system design and micro-frontend architecture
-- Edge-first full-stack apps with Next.js and Cloudflare Workers
-- Web accessibility (WCAG) and Core Web Vitals optimization
-- Microservices with ASP.NET Core and API gateways
-
----
-
-<div align="center">
-
-### 🤝 Let's Build Something
-
-Have a website, dashboard, or custom software idea? Let's talk.<br/>
-I'm also open to **frontend and full-stack engineering roles** and collaboration.
-
-[![Start a Project](https://img.shields.io/badge/Start%20a%20Project-3B82F6?style=for-the-badge&logo=rocket&logoColor=white)](https://software-studio.nexoralab.workers.dev/)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-deshmukh1720)
 </div>

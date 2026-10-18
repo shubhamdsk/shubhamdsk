@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="Portfolio: Angular 21 site with a 3D tech orbit, light and dark themes and a one-page resume.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eef7f6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.4" stop-color="#3b82f6"/>
+      <stop offset="0.7" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#fb923c"/>
+    </linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#1c202b"/>
+      <stop offset="1" stop-color="#07080b"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#64748b" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="frame"><rect width="600" height="300" rx="22"/></clipPath>
+    <path id="orbit" d="M394 150 a96 34 0 1 0 192 0 a96 34 0 1 0 -192 0"/>
+  </defs>
+  <style>
+    text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: "Cascadia Code", "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+    .fade { opacity: 0; animation: fade 0.8s ease-out forwards; }
+    .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.3s; } .d3 { animation-delay: 0.5s; }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    .float { animation: float 6s ease-in-out infinite alternate; }
+    .dash { stroke-dasharray: 5 7; animation: flow 1.6s linear infinite; }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+    @keyframes float { from { transform: translateY(0); } to { transform: translateY(-8px); } }
+    @keyframes flow { to { stroke-dashoffset: -24; } }
+    @media (prefers-reduced-motion: reduce) {
+      .fade, .pulse, .float, .dash { animation: none; opacity: 1; transform: none; }
+    }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="600" height="300" fill="url(#bg)"/>
+    <rect width="600" height="300" fill="url(#dots)"/>
+    <circle class="float" cx="490" cy="150" r="170" fill="url(#glow)"/>
+    <rect width="600" height="3" fill="url(#brand)"/>
+    <g class="fade d1">
+      <circle class="pulse" cx="42" cy="47" r="4.5" fill="#14b8a6"/>
+      <text class="mono" x="54" y="52" font-size="12.5" letter-spacing="1.5" fill="#0f766e">PORTFOLIO &#183; LIVE</text>
+    </g>
+    <text class="fade d1" x="34" y="100" font-size="31" font-weight="700" fill="#0f1b3d" letter-spacing="-0.6">My portfolio</text>
+    <text class="fade d2" x="36" y="136" font-size="16" fill="#475569">Angular 21 site with a 3D tech orbit,</text>
+    <text class="fade d2" x="36" y="160" font-size="16" fill="#475569">light and dark themes and my resume.</text>
+    <g class="fade d3">
+    <rect x="36" y="240" width="69" height="26" rx="13" fill="#14b8a6" fill-opacity="0.1" stroke="#14b8a6" stroke-opacity="0.35"/><text class="mono" x="44" y="257.5" font-size="12.5" fill="#1e293b">Angular</text>
+    <rect x="113" y="240" width="77" height="26" rx="13" fill="#14b8a6" fill-opacity="0.1" stroke="#14b8a6" stroke-opacity="0.35"/><text class="mono" x="121" y="257.5" font-size="12.5" fill="#1e293b">Tailwind</text>
+    <rect x="198" y="240" width="69" height="26" rx="13" fill="#14b8a6" fill-opacity="0.1" stroke="#14b8a6" stroke-opacity="0.35"/><text class="mono" x="206" y="257.5" font-size="12.5" fill="#1e293b">Signals</text>
+    <rect x="275" y="240" width="61" height="26" rx="13" fill="#14b8a6" fill-opacity="0.1" stroke="#14b8a6" stroke-opacity="0.35"/><text class="mono" x="283" y="257.5" font-size="12.5" fill="#1e293b">Vitest</text>
+    </g>
+    <g class="fade d2">
+      <use href="#orbit" class="dash" fill="none" stroke="#9fc9c4" stroke-width="1.2"/>
+      <circle r="6" fill="#dd0031"><animateMotion dur="9s" repeatCount="indefinite"><mpath href="#orbit"/></animateMotion></circle>
+      <circle r="6" fill="#61dafb"><animateMotion dur="9s" begin="-2.25s" repeatCount="indefinite"><mpath href="#orbit"/></animateMotion></circle>
+      <circle r="6" fill="#8b5cf6"><animateMotion dur="9s" begin="-4.5s" repeatCount="indefinite"><mpath href="#orbit"/></animateMotion></circle>
+      <circle r="6" fill="#38bdf8"><animateMotion dur="9s" begin="-6.75s" repeatCount="indefinite"><mpath href="#orbit"/></animateMotion></circle>
+      <rect x="456" y="116" width="68" height="68" rx="17" fill="url(#tile)" stroke="url(#brand)" stroke-width="2.5"/>
+      <text x="490" y="160" text-anchor="middle" font-size="28" font-weight="800" fill="url(#brand)">SD</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="599" height="299" rx="22" fill="none" stroke="#d5e7e5"/>
+</svg>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Shubham Deshmukh, software engineer at Hare and Turtle AI Solutions and founder of Nexora Studio">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Shubham Deshmukh, software engineer at Hare and Turtle AI Solutions working on MSIG USA, and founder of Nexora Studio">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#070b16"/>
@@ -66,19 +66,21 @@
       <rect class="caret" x="560" y="249" width="9" height="17" fill="#93c5fd"/>
     </g>
 
-    <g transform="translate(860 92)">
+    <g transform="translate(860 79)">
       <g class="fade d3">
-        <rect width="280" height="156" rx="18" fill="#0f172a" fill-opacity="0.72" stroke="#25324d"/>
+        <rect width="280" height="182" rx="18" fill="#0f172a" fill-opacity="0.72" stroke="#25324d"/>
         <circle cx="22" cy="22" r="5" fill="#f87171"/><circle cx="40" cy="22" r="5" fill="#fbbf24"/><circle cx="58" cy="22" r="5" fill="#34d399"/>
         <text class="mono" x="22" y="62" font-size="14" fill="#94a3b8">based</text>
         <text class="mono" x="96" y="62" font-size="14" fill="#e2e8f0">Pune, India</text>
         <text class="mono" x="22" y="88" font-size="14" fill="#94a3b8">works</text>
         <text class="mono" x="96" y="88" font-size="14" fill="#e2e8f0">Hare and Turtle AI</text>
-        <text class="mono" x="22" y="114" font-size="14" fill="#94a3b8">studio</text>
-        <text class="mono" x="96" y="114" font-size="14" fill="#e2e8f0">Nexora Studio</text>
-        <text class="mono" x="22" y="140" font-size="14" fill="#94a3b8">status</text>
-        <circle class="pulse" cx="101" cy="135" r="4" fill="#34d399"/>
-        <text class="mono" x="112" y="140" font-size="14" fill="#6ee7b7">building</text>
+        <text class="mono" x="22" y="114" font-size="14" fill="#94a3b8">client</text>
+        <text class="mono" x="96" y="114" font-size="14" fill="#e2e8f0">MSIG USA &#183; LOBs</text>
+        <text class="mono" x="22" y="140" font-size="14" fill="#94a3b8">studio</text>
+        <text class="mono" x="96" y="140" font-size="14" fill="#e2e8f0">Nexora Studio</text>
+        <text class="mono" x="22" y="166" font-size="14" fill="#94a3b8">status</text>
+        <circle class="pulse" cx="101" cy="161" r="4" fill="#34d399"/>
+        <text class="mono" x="112" y="166" font-size="14" fill="#6ee7b7">building</text>
       </g>
     </g>
   </g>

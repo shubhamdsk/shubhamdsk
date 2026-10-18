@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Shubham Deshmukh, software engineer at Hare and Turtle AI Solutions and founder of Nexora Studio">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Shubham Deshmukh, software engineer at Hare and Turtle AI Solutions working on MSIG USA, and founder of Nexora Studio">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f8fafc"/>
@@ -59,26 +59,28 @@
     <text class="fade d2" x="62" y="148" font-size="60" font-weight="700" fill="#0f172a" letter-spacing="-1.5">Shubham Deshmukh</text>
     <path class="line" d="M64 170 H584" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" fill="none"/>
 
-    <text class="fade d3" x="64" y="212" font-size="20" font-weight="500" fill="#334155">Software Engineer, <tspan fill="#f8fafc" font-weight="700">Hare and Turtle AI Solutions</tspan> &#183; Founder, <tspan fill="#0f172a" font-weight="700">Nexora Studio</tspan></text>
+    <text class="fade d3" x="64" y="212" font-size="20" font-weight="500" fill="#334155">Software Engineer, <tspan fill="#0f172a" font-weight="700">Hare and Turtle AI Solutions</tspan> &#183; Founder, <tspan fill="#0f172a" font-weight="700">Nexora Studio</tspan></text>
 
     <g class="fade d4">
       <text class="mono" x="64" y="262" font-size="16" fill="#64748b">$ <tspan fill="#2563eb">ship</tspan> <tspan fill="#7c3aed">--angular --react --next</tspan> <tspan fill="#059669">--dotnet --postgres</tspan></text>
       <rect class="caret" x="560" y="249" width="9" height="17" fill="#2563eb"/>
     </g>
 
-    <g transform="translate(860 92)">
+    <g transform="translate(860 79)">
       <g class="fade d3">
-        <rect width="280" height="156" rx="18" fill="#ffffff" fill-opacity="0.85" stroke="#dbe3f0"/>
+        <rect width="280" height="182" rx="18" fill="#ffffff" fill-opacity="0.85" stroke="#dbe3f0"/>
         <circle cx="22" cy="22" r="5" fill="#f87171"/><circle cx="40" cy="22" r="5" fill="#fbbf24"/><circle cx="58" cy="22" r="5" fill="#34d399"/>
         <text class="mono" x="22" y="62" font-size="14" fill="#64748b">based</text>
         <text class="mono" x="96" y="62" font-size="14" fill="#0f172a">Pune, India</text>
         <text class="mono" x="22" y="88" font-size="14" fill="#64748b">works</text>
         <text class="mono" x="96" y="88" font-size="14" fill="#0f172a">Hare and Turtle AI</text>
-        <text class="mono" x="22" y="114" font-size="14" fill="#64748b">studio</text>
-        <text class="mono" x="96" y="114" font-size="14" fill="#0f172a">Nexora Studio</text>
-        <text class="mono" x="22" y="140" font-size="14" fill="#64748b">status</text>
-        <circle class="pulse" cx="101" cy="135" r="4" fill="#34d399"/>
-        <text class="mono" x="112" y="140" font-size="14" fill="#059669">building</text>
+        <text class="mono" x="22" y="114" font-size="14" fill="#64748b">client</text>
+        <text class="mono" x="96" y="114" font-size="14" fill="#0f172a">MSIG USA &#183; LOBs</text>
+        <text class="mono" x="22" y="140" font-size="14" fill="#64748b">studio</text>
+        <text class="mono" x="96" y="140" font-size="14" fill="#0f172a">Nexora Studio</text>
+        <text class="mono" x="22" y="166" font-size="14" fill="#64748b">status</text>
+        <circle class="pulse" cx="101" cy="161" r="4" fill="#34d399"/>
+        <text class="mono" x="112" y="166" font-size="14" fill="#059669">building</text>
       </g>
     </g>
   </g>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="Cattle Feed Billing: Counter bills, live stock, dues and Marathi bills sent on WhatsApp.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0f1d"/>
+      <stop offset="1" stop-color="#101829"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f0782b" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#f0782b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f0782b"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#94a3b8" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="frame"><rect width="600" height="300" rx="22"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: "Cascadia Code", "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+    .fade { opacity: 0; animation: fade 0.8s ease-out forwards; }
+    .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.3s; } .d3 { animation-delay: 0.5s; }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    .grow { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: grow 1s cubic-bezier(.2,.8,.2,1) forwards; }
+    .float { animation: float 6s ease-in-out infinite alternate; }
+    .dash { stroke-dasharray: 6 6; animation: flow 1.4s linear infinite; }
+    .ring { transform-box: fill-box; transform-origin: center; animation: ring 2.4s ease-out infinite; }
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 18s linear infinite; }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+    @keyframes grow { to { transform: scaleY(1); } }
+    @keyframes float { from { transform: translateY(0); } to { transform: translateY(-8px); } }
+    @keyframes flow { to { stroke-dashoffset: -24; } }
+    @keyframes ring { from { transform: scale(0.6); opacity: 0.8; } to { transform: scale(2.4); opacity: 0; } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      .fade, .grow, .pulse, .float, .dash, .ring, .spin { animation: none; opacity: 1; transform: none; }
+    }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="600" height="300" fill="url(#bg)"/>
+    <rect width="600" height="300" fill="url(#dots)"/>
+    <circle class="float" cx="500" cy="60" r="190" fill="url(#glow)"/>
+    <rect width="600" height="3" fill="url(#edge)"/>
+    <g class="fade d1">
+      <circle class="pulse" cx="42" cy="47" r="4.5" fill="#f0782b"/>
+      <text class="mono" x="54" y="52" font-size="12.5" letter-spacing="1.5" fill="#f0782b">CLIENT &#183; SHOWCASE</text>
+    </g>
+    <text class="fade d1" x="34" y="100" font-size="31" font-weight="700" fill="#f8fafc" letter-spacing="-0.6">Cattle Feed Billing</text>
+    <text class="fade d2" x="36" y="136" font-size="16" fill="#a8b3c7">Counter bills, live stock, dues and</text>
+    <text class="fade d2" x="36" y="160" font-size="16" fill="#a8b3c7">Marathi bills sent on WhatsApp.</text>
+    <g class="fade d3">
+    <rect x="36" y="240" width="69" height="26" rx="13" fill="#f0782b" fill-opacity="0.12" stroke="#f0782b" stroke-opacity="0.35"/><text class="mono" x="44" y="257.5" font-size="12.5" fill="#e2e8f0">Next.js</text>
+    <rect x="113.19999999999999" y="240" width="92" height="26" rx="13" fill="#f0782b" fill-opacity="0.12" stroke="#f0782b" stroke-opacity="0.35"/><text class="mono" x="121.19999999999999" y="257.5" font-size="12.5" fill="#e2e8f0">TypeScript</text>
+    <rect x="213.2" y="240" width="46" height="26" rx="13" fill="#f0782b" fill-opacity="0.12" stroke="#f0782b" stroke-opacity="0.35"/><text class="mono" x="221.2" y="257.5" font-size="12.5" fill="#e2e8f0">Neon</text>
+    <rect x="267.59999999999997" y="240" width="62" height="26" rx="13" fill="#f0782b" fill-opacity="0.12" stroke="#f0782b" stroke-opacity="0.35"/><text class="mono" x="275.59999999999997" y="257.5" font-size="12.5" fill="#e2e8f0">Vercel</text>
+    </g>
+    <g class="fade d2">
+    <g transform="translate(418 50)">
+      <rect width="150" height="132" rx="14" fill="#0f172a" stroke="#334155"/>
+      <text class="mono" x="14" y="26" font-size="11" fill="#94a3b8">TODAY</text>
+      <text x="14" y="50" font-size="20" font-weight="700" fill="#fdba74">&#8377;25,700</text>
+      <line x1="14" y1="116" x2="136" y2="116" stroke="#334155"/>
+      <rect class="grow" style="animation-delay:.2s" x="18" y="86" width="16" height="30" rx="3" fill="#f0782b"/>
+      <rect class="grow" style="animation-delay:.35s" x="42" y="72" width="16" height="44" rx="3" fill="#f0782b"/>
+      <rect class="grow" style="animation-delay:.5s" x="66" y="92" width="16" height="24" rx="3" fill="#f0782b" fill-opacity="0.6"/>
+      <rect class="grow" style="animation-delay:.65s" x="90" y="64" width="16" height="52" rx="3" fill="#34d399"/>
+      <rect class="grow" style="animation-delay:.8s" x="114" y="78" width="16" height="38" rx="3" fill="#f0782b"/>
+    </g></g>
+  </g>
+  <rect x="0.5" y="0.5" width="599" height="299" rx="22" fill="none" stroke="#1f2a40"/>
+</svg>

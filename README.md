@@ -19,55 +19,16 @@ I build web products end to end — from the interface people use every day to t
 
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://software-studio.nexoralab.workers.dev/"><img src="assets/card-nexora.svg" width="49%" alt="Nexora Studio: studio site and admin portal with case studies and tracked enquiries" /></a>
+  <a href="https://github.com/shubhamdsk/cattle-feed-showcase"><img src="assets/card-cattle-feed.svg" width="49%" alt="Cattle Feed Billing: counter bills, live stock, dues and Marathi bills on WhatsApp" /></a>
+  <a href="https://github.com/shubhamdsk/shree-balaji-showcase"><img src="assets/card-shree-balaji.svg" width="49%" alt="Shree Balaji Paints: phone-first catalogue, WhatsApp quotations and a paint calculator" /></a>
+  <a href="https://github.com/shubhamdsk/cricket-live"><img src="assets/card-cricket-live.svg" width="49%" alt="Cricket Live: real-time scores and commentary over Server-Sent Events" /></a>
+  <a href="https://github.com/shubhamdsk/SQL-Automation-Next"><img src="assets/card-sql-automation.svg" width="49%" alt="SQL Automation Next: multi-database workspace with schema design and safe SQL execution" /></a>
+  <a href="https://github.com/shubhamdsk?tab=repositories"><img src="assets/card-more.svg" width="49%" alt="More repositories on GitHub" /></a>
+</p>
 
-**[Nexora Studio](https://software-studio.nexoralab.workers.dev/)**<br/>
-<sub>Studio site and admin portal: case studies, tracked enquiries, GitHub-authenticated admin.</sub><br/>
-<sub><code>Next.js</code> <code>Neon</code> <code>Drizzle</code> <code>Cloudflare Workers</code></sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Cattle Feed Billing](https://github.com/shubhamdsk/cattle-feed-showcase)**<br/>
-<sub>Counter billing for a feed dealer: live stock, dues, Marathi bills on WhatsApp, Excel reports.</sub><br/>
-<sub><code>Next.js</code> <code>TypeScript</code> <code>Neon</code> <code>Vercel</code></sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Shree Balaji Paints](https://github.com/shubhamdsk/shree-balaji-showcase)** · [live](https://shree-balaji.shreebalajipaints.workers.dev/)<br/>
-<sub>Phone-first catalogue, quotation list on WhatsApp, paint calculator, owner panel.</sub><br/>
-<sub><code>Next.js</code> <code>Drizzle</code> <code>Neon</code> <code>Cloudflare Workers</code></sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Cricket Live](https://github.com/shubhamdsk/cricket-live)** · [live](https://cricket-live-shubhamdsk1.vercel.app/)<br/>
-<sub>Real-time scores, scorecards and commentary streamed over Server-Sent Events.</sub><br/>
-<sub><code>React</code> <code>ASP.NET Core</code> <code>PostgreSQL</code> <code>Redis</code></sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[SQL Automation Next](https://github.com/shubhamdsk/SQL-Automation-Next)**<br/>
-<sub>Multi-database workspace: visual schema design, safe SQL execution, audit history.</sub><br/>
-<sub><code>React</code> <code>ASP.NET Core</code> <code>YARP</code> <code>Docker</code></sub>
-
-</td>
-<td width="50%" valign="top">
-
-**More on GitHub**<br/>
-<sub>[Team Progress Tracker](https://github.com/shubhamdsk/team-progress-tracker) · [Student Election System](https://github.com/shubhamdsk/student-election-system) · [Angular Portfolio](https://github.com/shubhamdsk/shubham-portfolio) · [Hotel Sarvottam](https://shubhamdsk.github.io/Hotel-Sarvottam/)</sub>
-
-</td>
-</tr>
-</table>
+<sub>Live sites: [Nexora Studio](https://software-studio.nexoralab.workers.dev/) · [Shree Balaji Paints](https://shree-balaji.shreebalajipaints.workers.dev/) · [Cricket Live](https://cricket-live-shubhamdsk1.vercel.app/) · [Hotel Sarvottam](https://shubhamdsk.github.io/Hotel-Sarvottam/)</sub>
 
 ## How I work
 
@@ -78,7 +39,7 @@ I build web products end to end — from the interface people use every day to t
 
 ## Toolkit
 
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,tailwind,dotnet,cs,nodejs,postgres,redis,cloudflare,vercel,docker,githubactions,vitest&perline=15" alt="Angular, React, Next.js, TypeScript, Tailwind CSS, .NET, C#, Node.js, PostgreSQL, Redis, Cloudflare, Vercel, Docker, GitHub Actions, Vitest" />
+<img src="assets/toolkit.svg" width="100%" alt="Toolkit: Angular, React, Next.js, TypeScript, RxJS, Signals, Tailwind CSS, ASP.NET Core, C#, Node.js, PostgreSQL, SQL Server, Redis, Drizzle ORM, Cloudflare Workers, Vercel, Neon, Docker, GitHub Actions, Vitest, Playwright" />
 
 ## Activity
 
